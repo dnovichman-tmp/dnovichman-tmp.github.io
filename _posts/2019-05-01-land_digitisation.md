@@ -16,7 +16,7 @@ In the developing world, this is a problem and has lead to several conflicts. We
 <figure>
 <a href="/media/compressed/mobileshot2.png
 " target="_blank"><img src="/media/compressed/mobileshot2.png" 
-alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
+width="600" height="400" border="10" />
  <figcaption>
  Land digitisation of Freetown showing restricted government lands (red).
  </figcaption></a>
@@ -25,7 +25,7 @@ alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
  <figure>
 <a href="/media/compressed/landClicked.jpg
 " target="_blank"><img src="/media/compressed/landClicked.jpg" 
-alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
+alt="IMAGE ALT TEXT HERE" width="600" height="100" border="10" />
  <figcaption>
  Readily available land information to end user.
  </figcaption></a>

@@ -8,7 +8,7 @@ layout: post-full
 
 <br/>
 <br/>
-## Mobile Applications
+##### Mobile Applications
 Our mobile applications can 
 * Calculate the size of a geographic feature
 * Show distribution of the terrain elevation, its statistics for any geographic feature
@@ -17,7 +17,7 @@ Our mobile applications can
 <br/>
 <br/>
 
-## Desktop Applications
+##### Desktop Applications
 Our desktop application provides the following analysis
 * Measurement of geographic locations (both distances and areas)
 * Estimation of taxes to be collected based on user specified tax model

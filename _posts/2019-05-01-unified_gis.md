@@ -14,7 +14,7 @@ alt="IMAGE ALT TEXT HERE" width="340" height="280" border="10" /><figcaption>Inp
  </figure>
 <br/>
 <br/>
-## Desktop Application
+##### Desktop Application
 Our desktop applications are developed to support a wide variety of format for input and output GIS file formats. The current file formats supported are
 * Comma separated value (csv). We have specific formats for land, address (pin) and roads. Please see xxx for the different formats
 * Keyhole Markup Language (KML). Linestring (path), point (pin/address), xxxxxxx
@@ -23,12 +23,12 @@ Our desktop applications are developed to support a wide variety of format for i
 * GeoJSON (to be added)
 
 <br/>
-## Mobile Applications
+##### Mobile Applications
 Our mobile applications supporting loading and writing of KML files. Can take high resolution screenshots.
 <br/>
 <br/>
 
-## Future Plans
+##### Future Plans
 We plan on adding support for the following file formats. If you'd like for us to ass a format, please [contact us](/contact_us).
 * GeoTiff
 * Dae
