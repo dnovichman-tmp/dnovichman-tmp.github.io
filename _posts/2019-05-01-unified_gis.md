@@ -16,21 +16,28 @@ alt="IMAGE ALT TEXT HERE" width="340" height="280" border="10" /><figcaption>Inp
 <br/>
 ##### Desktop Application
 Our desktop applications are developed to support a wide variety of format for input and output GIS file formats. The current file formats supported are
-* Comma separated value (csv). We have specific formats for land, address (pin) and roads. Please see xxx for the different formats
-* Keyhole Markup Language (KML). Linestring (path), point (pin/address), xxxxxxx
-* ESRI shapefile. Both .shp and .dbf are supported, xxx for pin/address yy for road and yyy for land
+* Comma separated value (csv). We have specific formats for land, address (pin) and roads. Please save a csv file from either our 2D or 3D viewer to see the various formats.
+* Keyhole Markup Language (KML). Linestring (path), point (pin/address) and LinearRing for 3D structures
+* ESRI shapefile. Both .shp (.shx) and .dbf are supported, Point for pin/address Polyline and PolylineM for road and Polygon for land
 * SQL database (custom format)
-* GeoJSON (to be added)
+* PostGRE support (to be added)
+* GeoJSON
+* RASTER GeoTIFF
+* Windows bitmap 
+* JPEG
+* SRTM HGT
+* .XYZ
 
 <br/>
 ##### Mobile Applications
-Our mobile applications supporting loading and writing of KML files. Can take high resolution screenshots.
+Our mobile applications supporting loading and writing of KML files. Can take high resolution screenshots of the app.
 <br/>
 <br/>
 
 ##### Future Plans
-We plan on adding support for the following file formats. If you'd like for us to ass a format, please [contact us](/contact_us).
-* GeoTiff
+We support all the RASTER file formats. Those not listed above can be added by [contacting us](/contact_us). Some future featuresn to be added include
+* Data cropping
+* 3D Measurements
 * Dae
 
 
