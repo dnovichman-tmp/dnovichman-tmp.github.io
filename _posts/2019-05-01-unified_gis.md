@@ -18,16 +18,16 @@ alt="IMAGE ALT TEXT HERE" width="340" height="280" border="10" /><figcaption>Som
 Our desktop applications are developed to support a wide variety of formats for use as input and output GIS files. The current file formats supported are
 * Comma separated value (csv). We have specific formats for land, address (pin) and roads. Please save a csv file from either our 2D or 3D viewer to see the various csv formats.
 * Keyhole Markup Language (KML). Linestring (path), point (pin/address) and LinearRing for 3D structures
-* ESRI shapefile. Both .shp (.shx) and .dbf are supported, Point for pin/address Polyline and PolylineM for road and Polygon for land
+* Environmental Systems Research Institute ESRI shapefile. Both .shp (.shx) and .dbf are supported, Point for pin/address Polyline and PolylineM for road and Polygon for land
 * SQL database (custom format)
 * PostGRE support (to be added)
 * GeoJSON
 * RASTER GeoTIFF
 * Windows bitmap 
-* JPEG
-* SRTM HGT
+* Joint Photographic Experts Group JPEG
+* Shuttle Radar Topography Mission SRTM HGT
 * XYZ
-* USGS ADF
+* United States Geological Survey's ArcGrid ADF
 
 <br/>
 ##### Mobile Applications
