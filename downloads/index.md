@@ -10,12 +10,12 @@ We support the two major mobile platforms: android and iOS.
 <br/>
 <br/>
 ###### Android
-The beta version of the adroid application can be downloaded from [here](/down/PaM.apk "Android build"). It will be available in Google Play soon. 
+The beta version of the adroid application can be downloaded from [here](https://drive.google.com/open?id=1xOUCo92LrysmVIF86Wdv-sJvJLurN9aQ "Android build"). It will be available in Google Play soon. 
 
 
 | Latest Release        | Download     | Remarks  |
 | ------------- |:-------------:| :-----|
-| 0.01      | [0.01](/down/PaM.apk "v0.01") | First version of the firmware. May not be available on Google Play. |
+| 0.01      | [0.01](https://drive.google.com/open?id=1xOUCo92LrysmVIF86Wdv-sJvJLurN9aQ "v0.01") | First version of the firmware. May not be available on Google Play. |
 
 
 <br/>
@@ -42,8 +42,8 @@ The Windows executable can be downloaded from xxxx.
 <br/>
 <br/>
 ###### Linux Ubuntu (Ubuntu 16.04)
-The latest version can downloaded from [here](/down/PAM1Application-x86_64.AppImage "Linux build"). Like any Linux application, please right click to change permission for it to be run as an executable. Other versions can are summarised below
+The latest version can downloaded from [here](https://drive.google.com/open?id=1vpniW7QnDxlmvMGLz3WOuGoGWkc5DDjp "Linux build"). Like any Linux application, please right click to change permission for it to be run as an executable. Other versions can are summarised below
 
 | Version        | Download     | Remarks  |
 | ------------- |:-------------:| :-----|
-| 0.01      | [0.01](/down/PAM1Application-x86_64.AppImage "v0.01") | First version of the firmware. |
+| 0.01      | [0.01](https://drive.google.com/open?id=1vpniW7QnDxlmvMGLz3WOuGoGWkc5DDjp "v0.01") | First version of the firmware. |
