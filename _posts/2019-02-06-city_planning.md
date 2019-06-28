@@ -1,6 +1,6 @@
 ---
 author: someone
-featimg: LandOptim.png
+featimg: 3DPlanner.png
 title: City Planning
 layout: post-full
 ---
@@ -36,3 +36,12 @@ alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
  </figcaption></a>
  </figure>
  
+ 
+ <figure>
+<a href="/media/compressed/3DPlanner.png
+" target="_blank"><img src="/media/compressed/3DPlanner.png" 
+alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
+ <figcaption>
+ 3D Viewer showing output of the planner with proposed buildings for residences and businesses.
+ </figcaption></a>
+ </figure>
