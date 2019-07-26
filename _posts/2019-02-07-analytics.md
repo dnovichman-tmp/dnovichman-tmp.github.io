@@ -11,15 +11,15 @@ layout: post-full
 ##### Mobile Applications
 Our mobile applications can 
 * Calculate the size of a geographic feature
-* Show distribution of the terrain elevation, its statistics for any geographic feature
-* Calculate the total number of schools, hospitals, restaurants and police stations  within a certain distance of one's location
+* Show distribution of the terrain elevation and statistics for any geographic feature
+* Output the total number of schools, hospitals, restaurants and police stations  within a certain distance of one's location
 * Can track and record your movements, its statistics and allow you to share or save it 
 <br/>
 <br/>
 
 ##### Desktop Applications
 Our desktop application provides the following analysis
-* Measurement of geographic locations (both distances and areas)
+* Measurement of geographic features (both distances and areas)
 * Estimation of taxes to be collected based on user specified tax model
 * Ranking of roads based on several criteria
 * 3D terrain tesselation
