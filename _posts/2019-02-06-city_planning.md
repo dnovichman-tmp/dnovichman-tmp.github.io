@@ -5,7 +5,7 @@ title: City Planning
 layout: post-full
 ---
 
-Our city planning algorithm helps plan a new city or can build upon information on currently available land information with buildings to replan a new city that meets requirements such as
+Our city planning algorithm helps plan a new city or can build upon information on currently available land information with buildings to replan a city that meets requirements such as
 * Number of hospitals
 * Number of schools
 * Number of police stations
@@ -20,7 +20,7 @@ Our city planning algorithm helps plan a new city or can build upon information 
 " target="_blank"><img src="/media/compressed/LandOriginal.png" 
 alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
  <figcaption>
- Current unplanned land distribution.
+ 3D buildings of current unplanned land distribution displayed on Google Earth.
  </figcaption></a>
  </figure>
 
@@ -32,7 +32,7 @@ alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
 " target="_blank"><img src="/media/compressed/LandOptim.png" 
 alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
  <figcaption>
- Optimised area showing residences (grey), police (dark blue), hospital (light blue) etc.
+ Optimised area showing residences (grey), police (dark blue), hospital (light blue) etc displayed on Google Earth.
  </figcaption></a>
  </figure>
  

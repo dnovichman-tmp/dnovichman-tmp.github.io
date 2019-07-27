@@ -6,7 +6,7 @@ Welcome to our download page for the various mobile and desktop PaM applications
 <br/>
 <br/>
 ##### Mobile Applications
-We support the two major mobile platforms: android and iOS. 
+We support the two major mobile platforms; android and iOS. 
 <br/>
 <br/>
 ###### Android
@@ -31,19 +31,19 @@ The iOS will be available at a later date depending on demand.
 We currently have software that support the following operating systems.
 <br/>
 <br/>
-###### Windows
-The Windows executable can be downloaded from xxxx.
-
-
-| Version        | Download     | Remarks  |
-| ------------- |:-------------:| :-----|
-| 0.01      | No link available | First version of the firmware. |
-
-<br/>
-<br/>
 ###### Linux Ubuntu (Ubuntu 16.04)
 The latest version can downloaded from [here](https://drive.google.com/open?id=1vpniW7QnDxlmvMGLz3WOuGoGWkc5DDjp "Linux build"). Like any Linux application, please right click to change permission for it to be run as an executable. Other versions can are summarised below
 
 | Version        | Download     | Remarks  |
 | ------------- |:-------------:| :-----|
 | 0.01      | [0.01](https://drive.google.com/open?id=1vpniW7QnDxlmvMGLz3WOuGoGWkc5DDjp "v0.01") | First version of the firmware. |
+
+<br/>
+<br/>
+###### Windows
+The Windows software will be made available later in 2019.
+
+
+| Version        | Download     | Remarks  |
+| ------------- |:-------------:| :-----|
+| 0.01      | No link available | First version of the firmware. |

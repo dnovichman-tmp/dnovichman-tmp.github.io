@@ -10,7 +10,7 @@ With our mobile and desktop applications, our software framework is a unificatio
 <figure>
 <a href="/media/compressed/unified_gis.png
 " target="_blank"><img src="/media/compressed/unified_gis.png" 
-alt="IMAGE ALT TEXT HERE" width="340" height="280" border="10" /><figcaption>Some of the input output files supported by PAM.
+alt="IMAGE ALT TEXT HERE" width="340" height="280" border="10" /><figcaption>Some of the input/output file formats supported by PaM.
  </figcaption></a>
  </figure>
 <br/>
@@ -37,7 +37,7 @@ Our mobile applications support loading and writing of KML files. The applicatio
 <br/>
 
 ##### Future Plans
-To support all the RASTER file formats. Those not listed above can be added by [contacting us](/contact_us).
+To support all the RASTER file formats. If there is is a format you would like us to add, please [contact us](/contact_us).
 
 
 

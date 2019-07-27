@@ -5,7 +5,7 @@ featimg: analysis.png
 title: Analysis Tools
 layout: post-full
 ---
-
+All our software and mobile applications have GIS anaytic capabilities.
 <br/>
 <br/>
 ##### Mobile Applications
@@ -21,7 +21,7 @@ Our mobile applications can
 Our desktop application provides the following analysis
 * Measurement of geographic features (both distances and areas)
 * Estimation of taxes to be collected based on user specified tax model
-* Ranking of roads based on several criteria
+* Ranking of roads for construction based on several criteria
 * 3D terrain tesselation
 * Terrain information for geographic features
 <br/>
@@ -32,7 +32,7 @@ Our desktop application provides the following analysis
 " target="_blank"><img src="/media/compressed/analysis.png" 
 alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
  <figcaption>
- Tax analysis for current addresses in a geographical location.
+ Tax analysis for addresses in a geographical location.
  </figcaption></a>
  </figure>
  
