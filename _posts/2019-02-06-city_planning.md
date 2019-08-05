@@ -5,7 +5,7 @@ title: City Planning
 layout: post-full
 ---
 
-Our city planning algorithm helps plan a new city or can build upon information on currently available land information with buildings to replan a city that meets requirements such as
+Our city planning algorithm helps plan a new city or can build upon information on currently available land and/or road information with buildings to replan a geographical region of interest that meets requirements such as
 * Number of hospitals
 * Number of schools
 * Number of police stations

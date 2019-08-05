@@ -32,7 +32,7 @@ Our desktop applications are developed to support a wide variety of formats for 
 
 <br/>
 ##### Mobile Applications
-Our mobile applications support loading and writing of KML files. The applications can also take high resolution screenshots of the current display.
+Our mobile applications support loading and writing of KML files. The files can be used to support emergency response to hard to reach places. The applications can also take high resolution screenshots of the current display.
 <br/>
 <br/>
 

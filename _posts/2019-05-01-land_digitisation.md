@@ -7,7 +7,7 @@ featimg: mobileshot.png
 ---
 <br/>
 <br/>
-In the developing world, this is a problem and has lead to several conflicts. We aim to solve this by recording all the geographical coordinates of already recorded land data and/or use our mobile application to record a "snap shot" of the land using GPS sensors readily available on mobile phones. The verified and unverified information is made available to the public through the mobile application and can only be approved by an authorised person. Our algorithms ensure the following
+In the developing world, this is a problem and has lead to several conflicts. We aim to solve this by recording all the geographical coordinates of already recorded land data and/or use our mobile application to record a "snap shot" of the land using GPS sensors readily available on mobile phones. The verified and unverified information is made available to the public through the mobile application and can only be approved by an authorised person along with a verification document. Our algorithms ensure the following
 * No multiple land owners
 * Lands can only be saved in the correct geopolitical location
 * Combining of adjacent lands
@@ -16,7 +16,7 @@ In the developing world, this is a problem and has lead to several conflicts. We
     * total area of assigned lands
     * Lands with overlapping geometric points
 * Terrain information for each land
-* Only people with administrative access (government officials) to the database can approve land information
+* Only people with administrative access (government officials) to the database can approve or disapprove land information
 <br/>
 <br/>
 
