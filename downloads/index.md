@@ -32,11 +32,11 @@ We currently have software that support the following operating systems.
 <br/>
 <br/>
 ###### Linux Ubuntu (Ubuntu 16.04)
-The latest version can downloaded from [here](https://drive.google.com/open?id=1vpniW7QnDxlmvMGLz3WOuGoGWkc5DDjp "Linux build"). Like any Linux application, please right click to change permission for it to be run as an executable. Other versions can are summarised below
+The latest version can downloaded from [here](https://drive.google.com/open?id=1mdGc1Jalov47KuGZ50po8U5Lh9a-PaWz "Linux build"). Like any Linux application, please right click to change permission for it to be run as an executable. Other versions can are summarised below
 
 | Version        | Download     | Remarks  |
 | ------------- |:-------------:| :-----|
-| 0.01      | [0.01](https://drive.google.com/open?id=1vpniW7QnDxlmvMGLz3WOuGoGWkc5DDjp "v0.01") | First version of the firmware. |
+| 0.01      | [0.01](https://drive.google.com/open?id=1mdGc1Jalov47KuGZ50po8U5Lh9a-PaWz "v0.01") | First version of the firmware. |
 
 <br/>
 <br/>
