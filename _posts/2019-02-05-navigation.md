@@ -22,6 +22,16 @@ alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
 <br/>
 <br/>
 <figure>
+<a href="/media/compressed/weather.png
+" target="_blank"><img src="/media/compressed/weather.png" 
+alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
+ <figcaption>
+ Current and future weather information available on app and desktop software.
+ </figcaption></a>
+</figure>
+<br/>
+<br/>
+<figure>
 <a href="/media/compressed/appDrivingDirection.png
 " target="_blank"><img src="/media/compressed/appDrivingDirection.png" 
 alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
