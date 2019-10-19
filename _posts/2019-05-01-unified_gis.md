@@ -17,18 +17,61 @@ alt="IMAGE ALT TEXT HERE" width="340" height="280" border="10" /><figcaption>Som
 <br/>
 ##### Desktop Application
 Our desktop applications are developed to support a wide variety of formats for use as input and output GIS files. The current file formats supported are
-* Comma separated value (csv). We have specific formats for land, address (pin) and roads. 
-* Keyhole Markup Language (KML). Linestring (path), point (pin/address) and LinearRing for 3D structures
-* Environmental Systems Research Institute ESRI shapefile. Both .shp (.shx) and .dbf are supported, Point for pin/address Polyline and PolylineM for road and Polygon for land
-* SQL database (custom format)
-* PostGRES support (to be added)
+<br/>
+<br/>
+
+###### Vector Formats
+* Comma separated value (csv) for generic and specific formats. 
+* Keyhole Markup Language (KML). Linestring (path), Point (pin/address) and LinearRing for 3D structures
+* Environmental Systems Research Institute ESRI shapefile. .shp (.shx), .dbf and .prj are supported.<!-- Point for pin/address Polyline and PolylineM for road and Polygon for land-->
 * GeoJSON
-* RASTER GeoTIFF
+
+<br/>
+<figure>
+<a href="/media/compressed/osm_shapen.png
+" target="_blank"><img src="/media/compressed/osm_shapen.png" 
+alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
+ <figcaption>
+ OSM loaded shapefile that can be directly converted to csv or KML.
+ </figcaption></a>
+ </figure>
+ <br/>
+<br/>
+###### Raster Formats
+* GeoTIFF
 * Windows bitmap 
 * Joint Photographic Experts Group JPEG
 * Shuttle Radar Topography Mission (SRTM) HGT
 * XYZ
 * United States Geological Survey's ArcGrid binary ADF
+* United States Digital Elevation Model (DEM)
+<br/>
+<figure>
+<a href="/media/compressed/srtm1011n.png
+" target="_blank"><img src="/media/compressed/srtm1011n.png" 
+alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
+ <figcaption>
+ SRTM HGT N10W011 terrain file.
+ </figcaption></a>
+ </figure>
+ <br/>
+ 
+ <br/>
+<figure>
+<a href="/media/compressed/n44_w093_3arc_v1n.png
+" target="_blank"><img src="/media/compressed/n44_w093_3arc_v1n.png" 
+alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
+ <figcaption>
+ n44_w093_3arc_v terrain tiff file in edit mode.
+ </figcaption></a>
+ </figure>
+ <br/>
+ 
+ 
+###### Spatial Database
+* MySQL
+* PostGreSQL (version 0.1.3)
+* SpatiaLite (version 0.1.3)
 
 <br/>
 ##### Mobile Applications
@@ -37,7 +80,7 @@ Our mobile applications support loading and writing of KML files. The files can 
 <br/>
 
 ##### Future Plans
-To support all the RASTER file formats. If there is is a format you would like us to add, please [contact us](/contact_us).
+To support all the vector and raster file formats. If there is is a format you would like us to add, please [contact us](/contact_us).
 
 
 
