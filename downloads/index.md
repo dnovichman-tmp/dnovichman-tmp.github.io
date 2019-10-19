@@ -15,7 +15,7 @@ The beta version of the adroid application can be downloaded from [here](https:/
 
 | Latest Release        | Download     | Remarks  |
 | ------------- |:-------------:| :-----|
-| 0.1.0      | [0.1.0](https://drive.google.com/open?id=1xOUCo92LrysmVIF86Wdv-sJvJLurN9aQ "v0.1.0") | First version of the firmware. May not be available on Google Play. |
+| 0.1.2      | [0.1.2](https://drive.google.com/open?id=1xOUCo92LrysmVIF86Wdv-sJvJLurN9aQ "v0.1.2") | First version of the firmware. May not be available on Google Play. |
 
 
 <br/>
@@ -36,7 +36,7 @@ The latest version can downloaded from [here](https://drive.google.com/open?id=1
 
 | Version        | Download     | Remarks  |
 | ------------- |:-------------:| :-----|
-| 0.1.0      | [0.1.0](https://drive.google.com/open?id=1mdGc1Jalov47KuGZ50po8U5Lh9a-PaWz "v0.1.0") | Use "chmod +x ./PAMv0.01.AppImage" or right click to change it to executable,<br/> then double click or run "./PAMv0.01.AppImage".|
+| 0.1.2      | [0.1.2](https://drive.google.com/open?id=1mdGc1Jalov47KuGZ50po8U5Lh9a-PaWz "v0.1.2") | Use "chmod +x ./PAMv0.01.AppImage" or right click to change it to executable,<br/> then double click or run "./PAMv0.01.AppImage".|
 
 <br/>
 <br/>
@@ -46,4 +46,4 @@ The Windows software will be made available later in 2019.
 
 | Version        | Download     | Remarks  |
 | ------------- |:-------------:| :-----|
-| 0.1.0      | No link available | First version of the firmware. |
+| 0.1.2      | No link available | First version of the firmware. |

@@ -21,14 +21,14 @@ Our desktop applications are developed to support a wide variety of formats for 
 * Keyhole Markup Language (KML). Linestring (path), point (pin/address) and LinearRing for 3D structures
 * Environmental Systems Research Institute ESRI shapefile. Both .shp (.shx) and .dbf are supported, Point for pin/address Polyline and PolylineM for road and Polygon for land
 * SQL database (custom format)
-* PostGRE support (to be added)
+* PostGRES support (to be added)
 * GeoJSON
 * RASTER GeoTIFF
 * Windows bitmap 
 * Joint Photographic Experts Group JPEG
 * Shuttle Radar Topography Mission (SRTM) HGT
 * XYZ
-* United States Geological Survey's ArcGrid ADF
+* United States Geological Survey's ArcGrid binary ADF
 
 <br/>
 ##### Mobile Applications
