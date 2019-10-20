@@ -15,7 +15,7 @@ The beta version of the adroid application can be downloaded from [here](https:/
 
 | Latest Release        | Download     | Remarks  |
 | ------------- |:-------------:| :-----|
-| 0.1.2      | [0.1.2](https://drive.google.com/open?id=1xOUCo92LrysmVIF86Wdv-sJvJLurN9aQ "v0.1.2") | First version of the firmware. May not be available on Google Play. |
+| 0.1.2      | [0.1.2](https://drive.google.com/open?id=1xOUCo92LrysmVIF86Wdv-sJvJLurN9aQ "v0.1.2") | First version of the Application, may not be available on Google Play. |
 
 
 <br/>
@@ -31,7 +31,7 @@ The iOS will be available at a later date depending on demand.
 We currently have software that support the following operating systems.
 <br/>
 <br/>
-###### Linux Ubuntu (Ubuntu 16.04)
+###### Linux Ubuntu
 The latest version can downloaded from [here](https://drive.google.com/open?id=1mdGc1Jalov47KuGZ50po8U5Lh9a-PaWz "Linux build"). Like any Linux application, please right click to change permission for it to be run as an executable. Other versions can are summarised below
 
 | Version        | Download     | Remarks  |

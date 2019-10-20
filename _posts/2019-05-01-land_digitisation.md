@@ -36,8 +36,8 @@ width="600" height="400" border="10" />
  <br/>
 <br/>
  <figure>
-<a href="/media/compressed/landClicked.jpg
-" target="_blank"><img src="/media/compressed/landClicked.jpg" 
+<a href="/media/compressed/landClicked.png
+" target="_blank"><img src="/media/compressed/landClicked.png" 
 alt="IMAGE ALT TEXT HERE" width="600" height="100" border="10" />
  <figcaption>
  Readily available land information to end users.
