@@ -32,11 +32,11 @@ We currently have software that support the following operating systems.
 <br/>
 <br/>
 ###### Linux Ubuntu
-The latest version can downloaded from [here](https://drive.google.com/open?id=1mdGc1Jalov47KuGZ50po8U5Lh9a-PaWz "Linux build"). Like any Linux application, please right click to change permission for it to be run as an executable. Other versions can are summarised below
+The latest version can downloaded from [here](https://drive.google.com/open?id=1HmOOqRUzIeHLx_GYnjxVilpkNQNtp38H "Linux build"). Like any Linux application, please right click to change permission for it to be run as an executable. Other versions can are summarised below
 
 | Version        | Download     | Remarks  |
 | ------------- |:-------------:| :-----|
-| 0.1.2      | [0.1.2](https://drive.google.com/open?id=1mdGc1Jalov47KuGZ50po8U5Lh9a-PaWz "v0.1.2") | Use "chmod +x ./PAMv0.01.AppImage" or right click to change it to executable,<br/> then double click or run "./PAMv0.01.AppImage".|
+| 0.1.2      | [0.1.2](https://drive.google.com/open?id=1HmOOqRUzIeHLx_GYnjxVilpkNQNtp38H "v0.1.2") | Use "chmod +x ./PAMv0.01.AppImage" or right click to change it to executable,<br/> then double click or run "./PAMv0.1.2.AppImage".|
 
 <br/>
 <br/>
