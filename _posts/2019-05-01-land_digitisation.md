@@ -11,12 +11,13 @@ In the developing world, this is a problem and has lead to several conflicts. We
 * No multiple land owners
 * Lands can only be saved in the correct geopolitical location
 * Combining of adjacent lands
-* Splitting of lands by multiple coordinates
+* Land splitting
 * Regional statistics
-    * total area of assigned lands
-    * Lands with overlapping geometric points
+    * Total area of assigned lands
+    * Lands with overlapping geometric points (land to land encroachment)
+    * Street encroachments of lands
 * Terrain information for each land
-* Only people with administrative access (government officials) to the database can approve or disapprove land information
+* Only people with administrative access (government officials) can approve or disapprove land information
 <br/>
 <br/>
 
@@ -39,7 +40,7 @@ width="600" height="400" border="10" />
 " target="_blank"><img src="/media/compressed/landClicked.jpg" 
 alt="IMAGE ALT TEXT HERE" width="600" height="100" border="10" />
  <figcaption>
- Readily available land information to end user.
+ Readily available land information to end users.
  </figcaption></a>
  </figure>
  <br/>
