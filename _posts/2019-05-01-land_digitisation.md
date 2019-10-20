@@ -28,7 +28,12 @@ width="600" height="400" border="10" />
  Land digitisation of Freetown showing restricted government lands (red).
  </figcaption></a>
  </figure>
- 
+  <br/>
+<br/>
+
+
+ <br/>
+<br/>
  <figure>
 <a href="/media/compressed/landClicked.jpg
 " target="_blank"><img src="/media/compressed/landClicked.jpg" 
@@ -52,7 +57,7 @@ alt="IMAGE ALT TEXT HERE" width="600" height="100" border="10" />
 " target="_blank"><img src="/media/compressed/createLand.png" 
 alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
  <figcaption>
- Land element creation with mobile application.
+ Land element creation with mobile App showing length and perimeter.
  </figcaption></a>
  </figure>
  <br/>

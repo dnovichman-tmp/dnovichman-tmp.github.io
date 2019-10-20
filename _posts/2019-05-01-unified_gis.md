@@ -73,6 +73,17 @@ alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
 * PostGreSQL (version 0.1.3)
 * SpatiaLite (version 0.1.3)
 
+ <br/>
+<figure>
+<a href="/media/compressed/mysql.png
+" target="_blank"><img src="/media/compressed/mysql.png" 
+alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
+ <figcaption>
+ MySQL spatial database that can be directly loaded or saved as csv, KML or Shapefile.
+ </figcaption></a>
+ </figure>
+ <br/>
+
 <br/>
 ##### Mobile Applications
 Our mobile applications support loading and writing of KML files. The files can be used to support emergency response to hard to reach places. The applications can also take high resolution screenshots of the current display.

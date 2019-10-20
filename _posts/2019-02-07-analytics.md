@@ -37,11 +37,20 @@ Our desktop application provides the following analysis
 " target="_blank"><img src="/media/compressed/analysis.png" 
 alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
  <figcaption>
- Tax analysis for addresses in a geographical location.
+ Tax analysis for addresses in a geographical region.
  </figcaption></a>
  </figure>
- 
- 
+  
+ <br/>
+<br/>
+ <figure>
+<a href="/media/compressed/landAnalysis.png
+" target="_blank"><img src="/media/compressed/landAnalysis.png" 
+alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
+ <figcaption>
+ Land summary showing number of land to land and land to road encroachments.
+ </figcaption></a>
+ </figure>
 <br/>
 <br/>
  <figure>
@@ -64,4 +73,13 @@ alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
  </figcaption></a>
  </figure>
  
- 
+   <br/>
+<br/>
+ <figure>
+<a href="/media/compressed/measn.png
+" target="_blank"><img src="/media/compressed/measn.png" 
+alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
+ <figcaption>
+ Geometric measurement tool on software (also available on App).
+ </figcaption></a>
+ </figure>
