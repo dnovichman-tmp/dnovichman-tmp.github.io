@@ -36,7 +36,7 @@ The latest version can downloaded from [here](https://drive.google.com/open?id=1
 
 | Version        | Download     | Remarks  |
 | ------------- |:-------------:| :-----|
-| 0.1.2      | [0.1.2](https://drive.google.com/open?id=1HmOOqRUzIeHLx_GYnjxVilpkNQNtp38H "v0.1.2") | Use "chmod +x ./PaMv0.1.2.AppImage" or right click to change it to executable,<br/> then double click or run "./PaMv0.1.2.AppImage".|
+| 0.1.2      | [0.1.2](https://drive.google.com/open?id=1HmOOqRUzIeHLx_GYnjxVilpkNQNtp38H "v0.1.2") | Use "chmod +x ./PaMv0.1.2.AppImage" or right click to change it to executable,<br/> then double click or run "./PaMv0.1.2.AppImage" from your favourite terminal. <br/>If you keep getting "Network Error: No Internet" message despite being connected  <br/>to the internet, please run "sudo apt-get install net-tools"|
 
 <br/>
 <br/>
