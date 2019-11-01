@@ -70,8 +70,8 @@ alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
  
 ###### Spatial Database
 * MySQL
-* PostGreSQL (version 0.1.3)
-* SpatiaLite (version 0.1.3)
+* PostGIS
+* SpatiaLite
 
  <br/>
 <figure>
