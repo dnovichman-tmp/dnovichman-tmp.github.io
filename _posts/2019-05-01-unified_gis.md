@@ -39,12 +39,14 @@ alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
 <br/>
 ###### Raster Formats
 * GeoTIFF
-* Windows bitmap 
-* Joint Photographic Experts Group JPEG
-* Shuttle Radar Topography Mission (SRTM) HGT
-* XYZ
-* United States Geological Survey's ArcGrid binary ADF
-* United States Digital Elevation Model (DEM)
+* Windows bitmap (.bmp)
+* Joint Photographic Experts Group (.jpeg)
+* Portable Network Graphics (png)
+* Shuttle Radar Topography Mission - SRTM (.hgt)
+* XYZ (to be added)
+* United States Geological Survey's ArcGrid binary (.adf)
+* United States Digital Elevation Model (.dem)
+* Erdas Imagine (.img)
 <br/>
 <figure>
 <a href="/media/compressed/srtm1011n.png
