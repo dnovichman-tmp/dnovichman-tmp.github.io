@@ -27,7 +27,7 @@ To contact us, please use the form below. <b>Alternatively, please send us an <a
   </div>
 	
   <div>
-    <label for="textarea">Enter Text:</label>
+    <label for="textarea">Short Message:</label>
     <textarea cols="120" rows="8" name="textarea" id="textarea"></textarea>
   </div>
 	
