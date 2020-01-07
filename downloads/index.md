@@ -40,7 +40,7 @@ The latest version can downloaded from [here](https://drive.google.com/open?id=1
 <br/>
 <br/>
 ###### Windows
-The Windows software will be made available later in 2019.
+The Windows software will be made available later in 2020.
 
 
 | Version        | Download     | Remarks  |
