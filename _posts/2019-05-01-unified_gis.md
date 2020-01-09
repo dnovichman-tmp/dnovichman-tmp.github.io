@@ -4,7 +4,7 @@ featimg: unified_gis.png
 title: Unified GIS
 layout: post-full
 ---
-With our mobile and desktop applications, our software framework is a unification of the majority of the commonly used geographic information system (GIS) file formats which follow the standard "Points, LineString, MultiLines/LinearRings" types.
+With our mobile and desktop applications, our software framework is a unification of the majority of the commonly used geographic information system (GIS) file formats which follow the standard "Points, LineString, MultiLines/LinearRings" types. Hence our software and apps are 100% Open Geospatial Consortium (OGC) compliant.
 <br/>
 <br/>
 <figure>

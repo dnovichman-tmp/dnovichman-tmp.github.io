@@ -15,7 +15,7 @@ The beta version of the adroid application can be downloaded from [here](https:/
 
 | Latest Release        | Download     | Remarks  |
 | ------------- |:-------------:| :-----|
-| [0.1.4](https://drive.google.com/open?id=1xOUCo92LrysmVIF86Wdv-sJvJLurN9aQ "v0.1.4")      | [0.1.4](https://drive.google.com/open?id=1xOUCo92LrysmVIF86Wdv-sJvJLurN9aQ "v0.1.4") | First version of the Application, may not be available on Google Play. |
+| [0.1.5](https://drive.google.com/open?id=1xOUCo92LrysmVIF86Wdv-sJvJLurN9aQ "v0.1.5")      | [0.1.5](https://drive.google.com/open?id=1xOUCo92LrysmVIF86Wdv-sJvJLurN9aQ "v0.1.5") | First version of the Application, may not be available on Google Play. |
 
 
 <br/>
@@ -35,7 +35,7 @@ The latest version can downloaded from [here](https://drive.google.com/open?id=1
 
 | Version        | Download     | Remarks  |
 | ------------- |:-------------:| :-----|
-| [0.1.4](https://drive.google.com/open?id=1YjilXX44uIVPNQFd9DnLk2phI7GjsjUX "v0.1.4")      | [0.1.4](https://drive.google.com/open?id=1YjilXX44uIVPNQFd9DnLk2phI7GjsjUX "v0.1.4") | 1) Use "chmod +x ./PaMv0.1.3.AppImage" or right click to change it to executable,<br/> then double click or run "./PaMv0.1.4.AppImage" from your favourite terminal. <br/><br/> 2) If you keep getting "Network Error: No Internet" message despite being connected  <br/>to the internet, please run "sudo apt-get install net-tools" <br/><br/> 3) Does not work with the xserver-xorg-video-nouveau graphics driver|
+| [0.1.5](https://drive.google.com/open?id=1YjilXX44uIVPNQFd9DnLk2phI7GjsjUX "v0.1.5")      | [0.1.5](https://drive.google.com/open?id=1YjilXX44uIVPNQFd9DnLk2phI7GjsjUX "v0.1.5") | 1) Use "chmod +x ./PaMv0.1.5.AppImage" or right click to change it to executable,<br/> then double click or run "./PaMv0.1.5.AppImage" from your favourite terminal. <br/><br/> 2) If you keep getting "Network Error: No Internet" message despite being connected  <br/>to the internet, please run "sudo apt-get install net-tools" <br/><br/> 3) Does not work with the xserver-xorg-video-nouveau graphics driver|
 
 <br/>
 <br/>
