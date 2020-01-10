@@ -17,7 +17,9 @@ In the developing world, this is a problem and has lead to several conflicts. We
     * Lands with overlapping geometric points (land to land encroachment)
     * Street encroachments of lands
 * Terrain information for each land
-* Only people with administrative access (government officials) can approve or disapprove land information
+* Only people with administrative access (government officials) can approve and/or make changes
+* Historical record of every change
+* Statistical analysis of land distribution
 <br/>
 <br/>
 
