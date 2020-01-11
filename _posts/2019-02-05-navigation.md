@@ -36,6 +36,6 @@ alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
 " target="_blank"><img src="/media/compressed/appDrivingDirection.png" 
 alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
  <figcaption>
- App based navigation.
+ App based navigation showing where PaM fits.
  </figcaption></a>
  </figure>
