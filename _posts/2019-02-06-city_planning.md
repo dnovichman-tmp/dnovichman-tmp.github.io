@@ -54,7 +54,7 @@ alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
 " target="_blank"><img src="/media/compressed/landOriginal2.png" 
 alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
  <figcaption>
- Original area to be optimised.
+ Area to be optimised with current buildings shown on Google Earth.
  </figcaption></a>
  </figure>
  
