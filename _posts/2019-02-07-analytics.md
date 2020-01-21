@@ -55,7 +55,7 @@ alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
 <br/>
 <br/>
  <figure>
-<a href="/media/compressed/singleLandAnalysis.png
+<a href="/media/compressed/charts.png
 " target="_blank"><img src="/media/compressed/charts.png" 
 alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
  <figcaption>
