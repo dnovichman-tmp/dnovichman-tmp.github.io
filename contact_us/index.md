@@ -2,7 +2,7 @@
 layout: page-full #page-material-sidebar-right
 title: Contact Us
 ---
-To contact us, please use the form below. <b>Alternatively, please send us an <a href="mailto:dnovichman@gmail.com">email</a>.</b>
+To contact us, please use the form below. <b>Alternatively, please send us an <a href="mailto:pamgis@pamgis.com">email</a>.</b>
 <br/>
 <br/>
 <br/>

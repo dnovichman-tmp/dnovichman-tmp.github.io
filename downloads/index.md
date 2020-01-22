@@ -15,7 +15,7 @@ The beta version of the adroid application can be downloaded from [here](https:/
 
 | Latest Release        | Download     | Remarks  |
 | ------------- |:-------------:| :-----|
-| [0.1.5](https://drive.google.com/open?id=1xOUCo92LrysmVIF86Wdv-sJvJLurN9aQ "v0.1.5")      | [0.1.5](https://drive.google.com/open?id=1xOUCo92LrysmVIF86Wdv-sJvJLurN9aQ "v0.1.5") | First version of the Application, may not be available on Google Play. |
+| [0.1.6](https://drive.google.com/open?id=1xOUCo92LrysmVIF86Wdv-sJvJLurN9aQ "v0.1.6")      | [0.1.6](https://drive.google.com/open?id=1xOUCo92LrysmVIF86Wdv-sJvJLurN9aQ "v0.1.6") | First version of the Application, may not be available on Google Play. |
 
 
 <br/>
