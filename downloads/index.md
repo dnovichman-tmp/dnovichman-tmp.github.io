@@ -31,11 +31,11 @@ We currently have software that support the following operating systems.
 <br/>
 <br/>
 ###### Linux Ubuntu
-The latest version can downloaded from [here](https://drive.google.com/open?id=1HBp5fTYSlhjhiAFHWIsFGvaQu79Gx7Au "Linux build"). Like any Linux application, please right click to change permission for it to be run as an executable. Other versions can are summarised below
+The latest version can downloaded from [here](https://drive.google.com/open?id=1d3XOrMfXjrg248wcAeqlsb8x8vm77y-r "Linux build"). Like any Linux application, please right click to change permission for it to be run as an executable. Other versions can are summarised below
 
 | Version        | Download     | Remarks  |
 | ------------- |:-------------:| :-----|
-| [0.1.5](https://drive.google.com/open?id=1HBp5fTYSlhjhiAFHWIsFGvaQu79Gx7Au "v0.1.5")      | [0.1.5](https://drive.google.com/open?id=1HBp5fTYSlhjhiAFHWIsFGvaQu79Gx7Au "v0.1.5") | 1) Use "chmod +x ./PaMv0.1.5.AppImage" or right click to change it to executable,<br/> then double click or run "./PaMv0.1.5.AppImage" from your favourite terminal. <br/><br/> 2) If you keep getting "Network Error: No Internet" message despite being connected  <br/>to the internet, please run "sudo apt-get install net-tools" <br/><br/> 3) Does not work with the xserver-xorg-video-nouveau graphics driver|
+| [0.1.6](https://drive.google.com/open?id=1d3XOrMfXjrg248wcAeqlsb8x8vm77y-r "v0.1.6")      | [0.1.6](https://drive.google.com/open?id=1d3XOrMfXjrg248wcAeqlsb8x8vm77y-r "v0.1.6") | 1) Use "chmod +x ./PaMv0.1.6.AppImage" or right click to change it to executable,<br/> then double click or run "./PaMv0.1.6.AppImage" from your favourite terminal. <br/><br/> 2) If you keep getting "Network Error: No Internet" message despite being connected  <br/>to the internet, please run "sudo apt-get install net-tools" <br/><br/> 3) Does not work with the xserver-xorg-video-nouveau graphics driver|
 
 <br/>
 <br/>
