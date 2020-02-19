@@ -40,9 +40,9 @@ The latest version can downloaded from [here](https://drive.google.com/open?id=1
 <br/>
 <br/>
 ###### Windows
-The Windows software will be made available later in 2020.
+The Windows software can be downloaded from [here](https://drive.google.com/open?id=1ZslCASVrTK7MIC0E4zfdH_h5K3My9WkV "Windows 10").
 
 
 | Version        | Download     | Remarks  |
 | ------------- |:-------------:| :-----|
-| 0.1.2      | No link available | First version of the firmware. |
+| [0.1.6](https://drive.google.com/open?id=1ZslCASVrTK7MIC0E4zfdH_h5K3My9WkV "v0.1.6")      | [0.1.6](https://drive.google.com/open?id=1ZslCASVrTK7MIC0E4zfdH_h5K3My9WkV "v0.1.6")  | We are aware of the 3D black screen on certain machines. Fix will be available soon.|
