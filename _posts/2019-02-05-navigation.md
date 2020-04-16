@@ -5,10 +5,13 @@ title: Navigation
 featimg: nav_buildings.png
 layout: post-full
 ---
-Both our mobile and desktop applications use standard algorithms and APIs to provide driving directions. In addition, based on location, we also provide information on the closest amenities such as schools, hospitals and police stations that are of interest to the user.
-<br/>
-<br/>
-In a lot of places, the driving directions output do not provide accurate information on how to get to the destination, to address this, our mobile application has support for overlaying KML files that can be generated using the tracking feature or from additional sources.
+Based on user GPS locations (or input), our mobile app and desktop software offer the following
+* Driving direction for navigation
+* Last mile navigation
+* Weather (current and 5 days forcast)
+* Emergency response
+* Nearby amenities such as schools, restaurants, hospitals and police stations
+
 <br/>
 <br/>
 <figure>

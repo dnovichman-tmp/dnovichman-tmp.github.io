@@ -3,6 +3,17 @@ layout: page-full
 title: Downloads
 ---
 Welcome to our download page for the various mobile and desktop PaM applications.
+
+##### Web link
+<figure>
+<a href="https://maps.pamgis.com/pam_2dmaps.html
+" target="_blank"><img src="/media/compressed/weblink.png" 
+alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
+ <figcaption>
+ Web link displaying and summarising real-time geospatial information.
+ </figcaption></a>
+</figure>
+
 <br/>
 <br/>
 ##### Mobile Applications

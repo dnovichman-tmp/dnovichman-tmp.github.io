@@ -4,7 +4,7 @@ featimg: unified_gis.png
 title: Unified GIS
 layout: post-full
 ---
-Our software and mobile applications are 100% Open Geospatial Consortium (OGC) compliant and follow the standard "Point, LineString, MultiLines/LinearRings" data types.
+Our software and mobile applications are 100% Open Geospatial Consortium (OGC) compliant and follow the standard data types.
 <br/>
 <br/>
 <figure>
