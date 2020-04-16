@@ -2,9 +2,14 @@
 layout: page-full #page-material-sidebar-right
 title: About Us
 ---
-We are a group of enthusiasts who want to develop software that can combine the capabilities of all the GIS software and make available the resulting software as open source. This open source software can be customised to user requirements. In addition, we also want to solve some of the most basic GIS problems in the developing world. Problems such as city planning, land digitisation, efficient taxation and many more.
+Our registered address is
+<br/>
+176 Quarry, Off Bai Bureh Road
+<br/>
+Freetown
+<br/>
+Western Urban, Sierra Leone
 <br/>
 <br/>
-
-<b>For more information, plese [contact us](/contact_us).</b>
+We have partners in local vendors in many other countries. To become a vendor or partner or if interested in the software, <b>please [contact us](/contact_us).</b>
 

@@ -4,7 +4,7 @@ featimg: unified_gis.png
 title: Unified GIS
 layout: post-full
 ---
-With our mobile and desktop applications, our software framework is a unification of the majority of the commonly used geographic information system (GIS) file formats which follow the standard "Points, LineString, MultiLines/LinearRings" types. Hence our software and apps are 100% Open Geospatial Consortium (OGC) compliant.
+Our software and mobile applications are 100% Open Geospatial Consortium (OGC) compliant and follow the standard "Point, LineString, MultiLines/LinearRings" data types.
 <br/>
 <br/>
 <figure>
@@ -13,6 +13,12 @@ With our mobile and desktop applications, our software framework is a unificatio
 alt="IMAGE ALT TEXT HERE" width="340" height="280" border="10" /><figcaption>Some of the input/output file formats supported by PaM.
  </figcaption></a>
  </figure>
+ 
+<br/>
+<br/>
+##### Mobile Applications
+Our mobile applications support loading and writing of KML files.
+
 <br/>
 <br/>
 ##### Desktop Application
@@ -23,7 +29,7 @@ Our desktop applications are developed to support a wide variety of formats for 
 ###### Vector Formats
 * Comma separated value (csv) for generic and specific formats. 
 * Keyhole Markup Language (KML). Linestring (path), Point (pin/address) and LinearRing for 3D structures
-* Environmental Systems Research Institute ESRI shapefile. .shp (.shx), .dbf and .prj are supported.<!-- Point for pin/address Polyline and PolylineM for road and Polygon for land-->
+* Environmental Systems Research Institute ESRI shapefile. .shp (.shx), .dbf and .prj are supported.
 * GeoJSON
 
 <br/>
@@ -84,16 +90,12 @@ alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
  MySQL spatial database that can be directly loaded or saved as csv, KML or Shapefile.
  </figcaption></a>
  </figure>
- <br/>
 
-<br/>
-##### Mobile Applications
-Our mobile applications support loading and writing of KML files. The files can be used to support emergency response to hard to reach places. The applications can also take high resolution screenshots of the current display.
 <br/>
 <br/>
 
 ##### Future Plans
-To support all the vector and raster file formats. If there is is a format you would like us to add, please [contact us](/contact_us).
+If there is is a vector or raster format you would like us to support, please [contact us](/contact_us).
 
 
 
