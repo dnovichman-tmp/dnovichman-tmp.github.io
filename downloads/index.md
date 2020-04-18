@@ -21,12 +21,12 @@ We support the two major mobile platforms; android and iOS.
 <br/>
 <br/>
 ###### Android
-The beta version of the adroid application can be downloaded from [here](https://maps.pamgis.com/executables/Linux/PaM.apk "Android build"). It will be available in Google Play soon. 
+The beta version of the adroid application can be downloaded from [here](https://maps.pamgis.com/executables/Android/PaM.apk "Android build"). It will be available in Google Play soon. 
 
 
 | Latest Release        | Download     | Remarks  |
 | ------------- |:-------------:| :-----|
-| [0.1.7](https://maps.pamgis.com/executables/Linux/PaM.apk "v0.1.7")      | [0.1.7](https://maps.pamgis.com/executables/Linux/PaM.apk "v0.1.7") | First version of the Application, may not be available on Google Play. |
+| [0.1.7](https://maps.pamgis.com/executables/Android/PaM.apk "v0.1.7")      | [0.1.7](https://maps.pamgis.com/executables/Android/PaM.apk "v0.1.7") | First version of the Application, may not be available on Google Play. |
 
 
 <br/>
@@ -46,7 +46,7 @@ The latest version can downloaded from [here](https://maps.pamgis.com/executable
 
 | Version        | Download     | Remarks  |
 | ------------- |:-------------:| :-----|
-| [0.1.7](https://maps.pamgis.com/executables/Linux/PAMv0.1.7.AppImage "v0.1.7")      | [0.1.7](https://maps.pamgis.com/executables/Linux/PAMv0.1.7.AppImage "v0.1.7") | 1) Use "chmod +x ./PaMv0.1.7.AppImage" or right click to change it to executable,<br/> then double click or run "./PaMv0.1.7.AppImage" from your favourite terminal. <br/><br/> 2) If you keep getting "Network Error: No Internet" message despite being connected  <br/>to the internet, please run "sudo apt-get install net-tools" <br/><br/> 3) Does not work with the xserver-xorg-video-nouveau graphics driver|
+| [0.1.7](https://maps.pamgis.com/executables/Android/PAMv0.1.7.AppImage "v0.1.7")      | [0.1.7](https://maps.pamgis.com/executables/Linux/PAMv0.1.7.AppImage "v0.1.7") | 1) Use "chmod +x ./PaMv0.1.7.AppImage" or right click to change it to executable,<br/> then double click or run "./PaMv0.1.7.AppImage" from your favourite terminal. <br/><br/> 2) If you keep getting "Network Error: No Internet" message despite being connected  <br/>to the internet, please run "sudo apt-get install net-tools" <br/><br/> 3) Does not work with the xserver-xorg-video-nouveau graphics driver|
 
 <br/>
 <br/>
