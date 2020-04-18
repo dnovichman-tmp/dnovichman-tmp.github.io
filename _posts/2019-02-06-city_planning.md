@@ -31,7 +31,7 @@ alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
 " target="_blank"><img src="/media/compressed/freetown_google.png" 
 alt="IMAGE ALT TEXT HERE" width="600" height="400" border="10" />
  <figcaption>
- 3D buildings exported to third party software Google Earty.
+ 3D buildings exported to third party software Google Earth.
  </figcaption></a>
  </figure>
 
