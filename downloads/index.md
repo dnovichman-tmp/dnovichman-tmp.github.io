@@ -21,12 +21,12 @@ We support the two major mobile platforms; android and iOS.
 <br/>
 <br/>
 ###### Android
-The beta version of the adroid application can be downloaded from [here](https://maps.pamgis.com/executables/Android/PaM.apk "Android build"). It will be available in Google Play soon. 
+The beta version of the adroid application can be downloaded from [here](https://play.google.com/store/apps/details?id=com.dnovichman.pam "Android build"). It will be available in Google Play soon. 
 
 
 | Latest Release        | Download     | Remarks  |
 | ------------- |:-------------:| :-----|
-| [0.1.7](https://maps.pamgis.com/executables/Android/PaM.apk "v0.1.7")      | [0.1.7](https://maps.pamgis.com/executables/Android/PaM.apk "v0.1.7") | First version of the Application, may not be available on Google Play. |
+| [0.1.7](https://play.google.com/store/apps/details?id=com.dnovichman.pam "v0.1.7")      | [0.1.7](https://play.google.com/store/apps/details?id=com.dnovichman.pam "v0.1.7") | First version of the Application, may not be available on Google Play. |
 
 
 <br/>
