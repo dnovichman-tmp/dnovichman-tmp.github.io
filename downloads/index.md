@@ -42,11 +42,11 @@ We currently have software that support the following operating systems.
 <br/>
 <br/>
 ###### Linux Ubuntu
-The latest version can downloaded from [here](https://maps.pamgis.com/executables/Linux/PAMv0.1.7.AppImage "Linux build"). Like any Linux application, please right click to change permission for it to be run as an executable. Other versions can are summarised below
+The latest version can downloaded from [here](https://maps.pamgis.com/executables/Linux/PaM.AppImage "Linux build"). Like any Linux application, please right click to change permission for it to be run as an executable. Other versions can are summarised below
 
 | Version        | Download     | Remarks  |
 | ------------- |:-------------:| :-----|
-| [0.1.7](https://maps.pamgis.com/executables/Android/PAMv0.1.7.AppImage "v0.1.7")      | [0.1.7](https://maps.pamgis.com/executables/Linux/PAMv0.1.7.AppImage "v0.1.7") | 1) Use "chmod +x ./PaMv0.1.7.AppImage" or right click to change it to executable,<br/> then double click or run "./PaMv0.1.7.AppImage" from your favourite terminal. <br/><br/> 2) If you keep getting "Network Error: No Internet" message despite being connected  <br/>to the internet, please run "sudo apt-get install net-tools" <br/><br/> 3) Does not work with the xserver-xorg-video-nouveau graphics driver|
+| [0.1.7](https://maps.pamgis.com/executables/Android/PaM.AppImage "v0.1.7")      | [0.1.7](https://maps.pamgis.com/executables/Linux/PaM.AppImage "v0.1.7") | 1) Use "chmod +x ./PaM.AppImage" or right click to change it to executable,<br/> then double click or run "./PaM.AppImage" from your favourite terminal. <br/><br/> 2) If you keep getting "Network Error: No Internet" message despite being connected  <br/>to the internet, please run "sudo apt-get install net-tools" <br/><br/> 3) Does not work with the xserver-xorg-video-nouveau graphics driver|
 
 <br/>
 <br/>
